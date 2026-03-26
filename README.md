@@ -1,4 +1,3 @@
-# AI-Interview-Resources
 内容由本人搜集，均来源于网络，侵删。欢迎提 issue 补充更多优质资源。
 
 ## 算法题
@@ -25,4 +24,4 @@
 
 ## 做简历
 
-- [resume](https://github.com/billryan/resume)，用LaTeX写简历
+- [resume](https://github.com/billryan/resume/tree/zh_CN)，用LaTeX写简历
