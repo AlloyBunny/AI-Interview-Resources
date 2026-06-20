@@ -7,6 +7,7 @@
 
 ## 算法岗八股
 
+- [小林面试笔记](https://xiaolinnote.com/)
 - [LLM-Algorithm-Intern-Guide](https://github.com/Junvate/LLM-Algorithm-Intern-Guide)
 - [Hello-Agents](https://github.com/datawhalechina/hello-agents/blob/main/Extra-Chapter/Extra01-%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88.md)
 - [黑马](https://my.feishu.cn/wiki/ChJkwfEo5iGpdXkL5oBcflRvn4g)
