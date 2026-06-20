@@ -17,6 +17,7 @@
 - [TorchCode](https://github.com/duoan/TorchCode)
 - [AI-Interview-Code](https://github.com/bbruceyuan/AI-Interview-Code)
 - [interview-codes](https://github.com/bigbillfighter/interview-codes)
+- [HappyTorch](https://github.com/Rivflyyy/HappyTorch)
 
 ## 开源项目
 
