@@ -23,6 +23,7 @@
 
 - [nageoffer](https://github.com/nageoffer)，有多个项目
 - [Hello-Agents](https://datawhalechina.github.io/hello-agents/#/./README)，agent的项目
+- [Minimind](https://github.com/jingyaogong/minimind)，从0实现一个现代LLM
 
 ## 做简历
 
